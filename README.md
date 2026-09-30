@@ -32,4 +32,5 @@
   <li>Polyglot: Arabic and its dialects 🇲🇦🇪🇬🇸🇦, English 🇬🇧, French 🇫🇷, and Italian 🇮🇹</li>
   <li>I like ortholinear split keyboards ⌨️</li>
   <li>I use FOSS apps whenever possible</li>
+  <li>Uses GrapheneOS</li>
 </ul>
