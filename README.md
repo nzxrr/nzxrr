@@ -15,7 +15,7 @@
 ###### Currently Learning :
 
 <div align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=js,ts,node,express,postgresql,sqlite">
+  <img src="https://skills.syvixor.com/api/icons?i=js,ts,node,express,postgresql,sqlite,git,opencode">
 </div>
 
 ###### Interested in Learning :
