@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="left">
+  <img src="https://skills.syvixor.com/api/icons?i=vscode,ghostty,apple">
+</div>
 
-<!--
-**nzxrr/nzxrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hi, I'm Nizar 👋</h2>
 
-Here are some ideas to get you started:
+<div align="right">
+  <img src="https://skills.syvixor.com/api/icons?i=linux,vim,android">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  Aspiring software engineer interested in backend development 💻
+</p>
+
+###### Currently Learning :
+
+<div align="left">
+  <img src="https://skills.syvixor.com/api/icons?i=js,ts,node,express,postgresql,sqlite">
+</div>
+
+###### Interested in Learning :
+
+<div align="left">
+  <img src="https://skills.syvixor.com/api/icons?i=golang,docker,kubernetes">
+</div>
+
+<hr>
+
+<h3>More About Me 🤓</h3>
+
+<ul>
+  <li>Polyglot: Arabic and its dialects 🇲🇦🇪🇬🇸🇦, English 🇬🇧, French 🇫🇷, and Italian 🇮🇹</li>
+  <li>I like ortholinear split keyboards ⌨️</li>
+  <li>I use FOSS apps whenever possible</li>
+</ul>
