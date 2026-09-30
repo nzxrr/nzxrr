@@ -29,8 +29,8 @@
 <h3>More About Me 🤓</h3>
 
 <ul>
-  <li>Polyglot: Arabic and its dialects 🇲🇦🇪🇬🇸🇦, English 🇬🇧, French 🇫🇷, and Italian 🇮🇹</li>
-  <li>I like ortholinear split keyboards ⌨️</li>
-  <li>I use FOSS apps whenever possible</li>
+  <li>Polyglot: Speaks Arabic and its dialects 🇲🇦🇪🇬🇸🇦, English 🇬🇧, French 🇫🇷, and Italian 🇮🇹</li>
+  <li>Uses ortholinear split keyboards ⌨️</li>
+  <li>Uses FOSS apps whenever possible</li>
   <li>Uses GrapheneOS</li>
 </ul>
