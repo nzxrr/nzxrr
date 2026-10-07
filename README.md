@@ -35,8 +35,8 @@
 <h3>More About Me 🤓</h3>
 
 <ul>
-  <li>Polyglot: Speaks🇲🇦🇸🇦🇬🇧🇫🇷🇮🇹</li>
-  <li>Likes VIM and split keyboards</li>
+  <li>Polyglot 🇲🇦🇸🇦🇬🇧🇫🇷🇮🇹</li>
+  <li>Likes VIM and ortholinear split keyboards ⌨️</li>
   <li>Hates linear switches</li>
   <li>Uses FOSS apps whenever possible</li>
   <li>Uses GrapheneOS</li>
