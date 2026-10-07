@@ -35,9 +35,9 @@
 <h3>More About Me 🤓</h3>
 
 <ul>
-  <li>Polyglot: Speaks Arabic and its dialects 🇲🇦🇪🇬🇸🇦, English 🇬🇧, French 🇫🇷, and Italian 🇮🇹</li>
-  <li>Uses ortholinear split keyboards ⌨️</li>
-  <li>Uses VIM motions even inside VSCode 😅</li>
+  <li>Polyglot: Speaks🇲🇦🇸🇦🇬🇧🇫🇷🇮🇹</li>
+  <li>Likes VIM and split keyboards</li>
+  <li>Hates linear switches</li>
   <li>Uses FOSS apps whenever possible</li>
   <li>Uses GrapheneOS</li>
 </ul>
