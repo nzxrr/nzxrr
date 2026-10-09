@@ -15,7 +15,7 @@
 ###### Currently Learning and Building Proficiency with :
 
 <div align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=js,ts,node,express,postgresql,sqlite,mongodb,docker,git&perline=8">
+  <img src="https://skills.syvixor.com/api/icons?i=js,ts,node,express,vitest,postgresql,sqlite,mongodb,docker,git">
 </div>
 
 ###### Interested in Learning :
