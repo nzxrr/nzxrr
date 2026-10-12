@@ -21,7 +21,7 @@
 ###### Interested in Learning :
 
 <div align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=golang,kubernetes,fastify,redis,deno">
+  <img src="https://skills.syvixor.com/api/icons?i=golang,kotlin,kubernetes,fastify,redis,deno,jetpackcompose">
 </div>
 
 ###### Dabbled in the past with :
